@@ -1,0 +1,10 @@
+{
+  "name": "slackstandups",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-s3-sync": "^1.10.2",
+    "serverless-step-functions": "^2.17.0"
+  }
+}

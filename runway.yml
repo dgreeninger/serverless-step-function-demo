@@ -1,0 +1,5 @@
+deployments:
+  - modules:
+      - slackStandups
+    regions:
+      - us-east-1
